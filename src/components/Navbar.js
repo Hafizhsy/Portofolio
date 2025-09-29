@@ -94,7 +94,7 @@ function NavBar() {
 
             <Nav.Item>
               <Nav.Link
-                href="https://portofolio-bice-rho.vercel.app/"
+                href="https://vercel.com/hafizhsys-projects"
                 target="_blank"
                 rel="noreferrer"
               >
